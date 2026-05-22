@@ -1,0 +1,10 @@
+Alice| Johnson| 85
+Bob| Smith| 72
+Carol| Davis| 85
+David| Smith| 91
+Eve| Brown| 72
+Frank| Wilson| 100
+Grace| Taylor| 0
+Henry| Clark| 55
+Ivy| Martinez| 91
+Jack| Johnson| 62
